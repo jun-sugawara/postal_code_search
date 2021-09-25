@@ -1,4 +1,4 @@
 class SearchController < ApplicationController
-  def seardh
+  def search
   end
 end
